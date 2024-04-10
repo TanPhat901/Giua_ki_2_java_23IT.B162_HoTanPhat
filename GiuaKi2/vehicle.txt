@@ -1,0 +1,1 @@
+Car,Car [slots=2, engineType=2, ID=12, brand=321, publishYear=321, price=312, color=12, getSlots()=2, getEngineType()=2, getID()=12, getBrand()=321, getPublishYear()=321, getPrice()=312, getColor()=12, getClass()=class Giuaki.Car, hashCode()=413601558, toString()=Giuaki.Car@18a70f16]
